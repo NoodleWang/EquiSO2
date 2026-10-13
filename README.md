@@ -154,4 +154,31 @@ historical annotations, not runtime dependencies. This README specifies the
 public interface. This source release does not reproduce the optimized model
 service or establish the manuscript's hardware timing results.
 
+## Authors
 
+Hengfang Wang and Jincheng Liu
+
+Contact: hengfang@fjnu.edu.cn, liujincheng@nankai.edu.cn
+
+## License
+
+Copyright (c) 2026 [Copyright holder name(s) or institution].
+
+Unless otherwise noted, the original EquiSO2 source code, examples, tests
+and documentation in this repository are licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+See [LICENSE](LICENSE) for the full license terms.
+
+Third-party materials and dependencies remain subject to their respective
+licenses. Dependencies are installed separately, not vendored. This license
+notice does not replace any third-party license terms.
+
+For licensing inquiries, please contact [Contact email].
+
+## Acknowledgements
+
+The implementation builds on equivariant tensor representations,
+edge-aligned SO(2) processing, and the DPA4 low-rank and multi-focus design
+ideas discussed in the accompanying manuscript.
