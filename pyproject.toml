@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equiso2"
+version = "0.1.0"
+description = "Conservative EquiSO2 potentials and curvature-prioritized gradient coordination"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.8,<2.9", "e3nn>=0.6,<0.7", "numpy>=1.24"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

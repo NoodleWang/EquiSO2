@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-13",
+  "source_commit": "fb84e5d5ed447584a6ec1fe68f493204b643ddd1",
+  "source_state": "Selected working-tree snapshots, not an assertion of a clean source commit.",
+  "files": [
+    {
+      "path": "src/equiso2/models/__init__.py",
+      "sha256": "bbca18c703ebd7866e3c448e276d8444588d29aa97efb9d59218d671bd78b425"
+    },
+    {
+      "path": "src/equiso2/models/block.py",
+      "sha256": "1cd964c4467bee69af933a02149480a971dd09cb389168c5e32f1e70d322891b"
+    },
+    {
+      "path": "src/equiso2/models/direct_force_head.py",
+      "sha256": "b57d9164a33bc91cf51db34620c939e7c1146b400eeae119dd18dec6977bd7a0"
+    },
+    {
+      "path": "src/equiso2/models/energy_head.py",
+      "sha256": "ebac2f9a96b54286c3a37ab491501fd9d2e7cb363ebc5849f9cec1bc02c04e10"
+    },
+    {
+      "path": "src/equiso2/models/hess_so2_equiformer.py",
+      "sha256": "16743bb6a8639fa9612b085ff73ca6ea4754eb4b46524e37b6be957201f6b5b5"
+    },
+    {
+      "path": "src/equiso2/models/low_rank_so2.py",
+      "sha256": "f9af829e0048928a065088d840ac0feae7888ac1c882cbf92a8336a954f7052a"
+    },
+    {
+      "path": "src/equiso2/models/multi_focus.py",
+      "sha256": "943d390da5002b200dacfdda4bf68edbbeb8518cb6e88d5dedbdf20dd12cdc5d"
+    },
+    {
+      "path": "src/equiso2/models/output.py",
+      "sha256": "131522f5204aeb2ea4e26739a9c3a83fb8a02e8c6454504f16cff1112f517a2a"
+    },
+    {
+      "path": "src/equiso2/models/smooth_attention.py",
+      "sha256": "e76e91839a14e7cdb97c09a1c76fc7d58267f3931c706aba05385027089841cd"
+    },
+    {
+      "path": "src/equiso2/graph/__init__.py",
+      "sha256": "74d7bb29593e70b9123d96baec7fba275bf5326b9f09dc94bf2a75bb607b32d9"
+    },
+    {
+      "path": "src/equiso2/graph/cutoff.py",
+      "sha256": "e775a639a0f9d5485840259a8270b41719e74195c453127b979ef3022f4f8574"
+    },
+    {
+      "path": "src/equiso2/graph/geometry.py",
+      "sha256": "72a9083ac7234da2ead593d4ad6816cf9f20b37025b63a1ce1b870d666aefa70"
+    },
+    {
+      "path": "src/equiso2/graph/topology.py",
+      "sha256": "04dfc0b13f17d0a82dd77c2e01e00ae60a44a8902cca4ceaa5d95529e7a830af"
+    },
+    {
+      "path": "src/equiso2/irreps/__init__.py",
+      "sha256": "24c8c62d1be53801b651de73fa6a51f7d66e45250159ac3184bfefc4c22b1006"
+    },
+    {
+      "path": "src/equiso2/irreps/layout.py",
+      "sha256": "1b23b3ec3853ebf444f61b12c3b43bb9afc6aadaf92e01e1afe9474a14eae5fb"
+    },
+    {
+      "path": "src/equiso2/irreps/rotation.py",
+      "sha256": "17ee4dd69be640899956166108d9ef24dd28b82d9c9b74fd843d957b696860d9"
+    },
+    {
+      "path": "src/equiso2/curvature/__init__.py",
+      "sha256": "e12597d8bbd3f41844920d00a8c61dbb830fe32fc1f8212db06868f08c379147"
+    },
+    {
+      "path": "src/equiso2/curvature/finite_difference.py",
+      "sha256": "20abad23484ebd48569600bff2fdcb98a4d5f36a541922d1e0fce08e43f8679f"
+    },
+    {
+      "path": "src/equiso2/curvature/hvp.py",
+      "sha256": "aedc896e8488322280c463bc1d1903dd1a702f95024d9c1d6122ca2727899792"
+    },
+    {
+      "path": "src/equiso2/curvature/sampler.py",
+      "sha256": "2c822ac9bdb17aea9a702f728164ceb2a476f6a31adf5121ac61d5d62007a4c9"
+    },
+    {
+      "path": "src/equiso2/curvature/vjp.py",
+      "sha256": "8e1b70cd3f6e19eac1385857a86271afc45d05b349c3d1fb6adebe14d83e2a2b"
+    },
+    {
+      "path": "src/equiso2/losses/energy_force.py",
+      "sha256": "71f4624ebdee74582bb5e3943d97a67f3d601d29a2487ff1561207afa08de72b"
+    },
+    {
+      "path": "src/equiso2/losses/hessian.py",
+      "sha256": "eb71b55333071e3b77e4a5ff7cf4123e221cee81ac081b369506677997938ad5"
+    },
+    {
+      "path": "src/equiso2/train/blockwise_derivative_balance_v1.py",
+      "sha256": "89b3973be613eced5dfea97e893d23ed6d51c72c4492296a207ea41646f987cd"
+    },
+    {
+      "path": "src/equiso2/train/blockwise_derivative_balance_packed_ablation_v1.py",
+      "sha256": "52dfffee8654b83f058b9eba8ba04c8bdb96df3811180590c6e5859eea712edf"
+    },
+    {
+      "path": "src/equiso2/train/blockwise_sobolev_balance_packed_v1.py",
+      "sha256": "c1920615435323ce2064703191f7a4b5eaa927e5fde26f6298f584c9557b10f2"
+    },
+    {
+      "path": "tests/test_model_equivariance.py",
+      "sha256": "793481b95ec38ce5b316e646b6fb0c93162063317ba424afd45b69eb513d1fa0"
+    },
+    {
+      "path": "tests/test_graph_geometry.py",
+      "sha256": "85b5814207500cf01710563760e3465ac2a83713f0de650ac56a1362aa93f6c7"
+    },
+    {
+      "path": "tests/test_so2_modules.py",
+      "sha256": "76998e80bd7febb0ff4d1e512952d54c07c0fef5ee6cba3bb867a756063c27d7"
+    },
+    {
+      "path": "tests/test_curvature.py",
+      "sha256": "d42d665d5188056e9977f8e0b578635164aad68c950e138ca0a2f4115da16ed7"
+    },
+    {
+      "path": "tests/test_blockwise_derivative_balance_v1.py",
+      "sha256": "415a8148c50ebae0a2c58e6984f152c4c11496458950188f6c13173e694e20b0"
+    },
+    {
+      "path": "tests/test_blockwise_sobolev_balance_packed_v1.py",
+      "sha256": "5a19715505f85d09c0c308914c37dd6d0ca8eedece72d376da44d2dba3545856"
+    },
+    {
+      "path": "tests/test_blockwise_derivative_balance_packed_ablation_v1.py",
+      "sha256": "27674089cc3656b09752d6de369f53b8f850da60797806652ed7c1acfc21573d"
+    }
+  ]
+}
