@@ -154,12 +154,4 @@ historical annotations, not runtime dependencies. This README specifies the
 public interface. This source release does not reproduce the optimized model
 service or establish the manuscript's hardware timing results.
 
-## Before public release
 
-This is a local release candidate. The authors must choose a license and
-confirm publication rights and attribution before publishing. No open-source
-license is inferred or granted by this package. Dependencies retain their own
-licenses and are installed separately, not vendored. The implementation builds
-on equivariant tensor representations, edge-aligned SO(2) processing and the
-DPA4 low-rank and multi-focus design ideas discussed in the manuscript.
-Add the finalized paper citation and repository URL when available.
