@@ -134,7 +134,7 @@ Use the low-level controllers for precomputed or streamed parameter gradients.
 The convenience interface retains graphs for a small single-process example.
 It is not the distributed or memory-optimized campaign trainer.
 
-## Layout and provenance
+## Repository layout
 
 ```text
 src/equiso2/models, graph, irreps   model and differentiable geometry
@@ -147,11 +147,9 @@ examples/                        executable synthetic examples
 tests/                           self-contained tests
 ```
 
-`PROVENANCE.json` records hashes of the selected research-source snapshots.
-Historical internal module names are preserved to make this extraction
-traceable. References to internal design notes in legacy docstrings are
-historical annotations, not runtime dependencies. This README specifies the
-public interface. This source release does not reproduce the optimized model
+References to internal design notes in legacy docstrings are historical
+annotations, not runtime dependencies. This README specifies the public
+interface. This source release does not reproduce the optimized model
 service or establish the manuscript's hardware timing results.
 
 ## Authors
@@ -159,6 +157,7 @@ service or establish the manuscript's hardware timing results.
 Hengfang Wang and Jincheng Liu
 
 Contact: hengfang@fjnu.edu.cn, liujincheng@nankai.edu.cn
+
 
 ## License
 
