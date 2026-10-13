@@ -156,7 +156,7 @@ service or establish the manuscript's hardware timing results.
 
 Hengfang Wang and Jincheng Liu
 
-Contact: hengfang@fjnu.edu.cn, liujincheng@nankai.edu.cn
+Corresponding author: Jincheng Liu (liujincheng@nankai.edu.cn)
 
 
 ## License
