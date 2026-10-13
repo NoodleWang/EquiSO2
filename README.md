@@ -161,7 +161,7 @@ Contact: hengfang@fjnu.edu.cn, liujincheng@nankai.edu.cn
 
 ## License
 
-Copyright (c) 2026 [Copyright holder name(s) or institution].
+Copyright (c) 2026 (Hengfang Wang, Jincheng Liu).
 
 Unless otherwise noted, the original EquiSO2 source code, examples, tests
 and documentation in this repository are licensed under the
@@ -174,7 +174,7 @@ Third-party materials and dependencies remain subject to their respective
 licenses. Dependencies are installed separately, not vendored. This license
 notice does not replace any third-party license terms.
 
-For licensing inquiries, please contact [Contact email].
+For licensing inquiries, please contact liujincheng@nankai.edu.cn.
 
 ## Acknowledgements
 
