@@ -154,14 +154,14 @@ service or establish the manuscript's hardware timing results.
 
 ## Authors
 
-Hengfang Wang and Jincheng Liu
+Hengfang Wang and Jin-Cheng Liu
 
-Corresponding author: Jincheng Liu (liujincheng@nankai.edu.cn)
+Corresponding author: Jin-Cheng Liu (liujincheng@nankai.edu.cn)
 
 
 ## License
 
-Copyright (c) 2026 (Hengfang Wang, Jincheng Liu).
+Copyright (c) 2026 (Hengfang Wang, Jin-Cheng Liu).
 
 Unless otherwise noted, the original EquiSO2 source code, examples, tests
 and documentation in this repository are licensed under the
